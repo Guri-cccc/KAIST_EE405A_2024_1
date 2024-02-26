@@ -5,6 +5,8 @@ KAIST EE405A 2024 spring semester
 ## hardware platform
 <!-- [Robot](Week 3/Materials/) <br/> -->
 
+***
+
 # Syllabus
 
 <details>
@@ -80,7 +82,7 @@ KAIST EE405A 2024 spring semester
 
 </details>
 
-> Week 8 - Midterm exam week
+  Week 8 - Midterm exam week
 
 <details>
 <summary> Week 9 - Perception </summary>
@@ -155,4 +157,4 @@ KAIST EE405A 2024 spring semester
 
 </details>
 
-> Week 16 - Final exam week
+  Week 16 - Final exam week
