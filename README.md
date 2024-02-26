@@ -24,7 +24,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 
 </details>
 
-## Computer
+## Onboard computer
 <details>
   
 <summary> NVIDIA® Jetson Orin™ Nano Developer Kit </summary>
