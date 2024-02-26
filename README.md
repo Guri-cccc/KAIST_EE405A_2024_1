@@ -7,9 +7,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 ## Hardware platform
 <details>
   
-<summary> Base robot info </summary>
-
-Hiwonder ArmPi Pro
+<summary> Hiwonder ArmPi Pro </summary>
 
 [Link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
 - 4 omni-directional mecanum wheels
@@ -20,9 +18,7 @@ Hiwonder ArmPi Pro
 
 <details>
   
-<summary> Additional Camera </summary>
-
-Intel Realsense D435
+<summary> Intel Realsense D435 </summary>
 
 [Link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
 
