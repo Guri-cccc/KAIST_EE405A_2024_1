@@ -8,6 +8,7 @@ KAIST EE405A 2024 spring semester
 <summary> Base robot info </summary>
 
 Hiwonder ArmPi Pro
+
 [Robot link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
 - 4 omni-directional mecanum wheels
 - 6DOF arm (5DOF+gripper)
@@ -20,6 +21,7 @@ Hiwonder ArmPi Pro
 <summary> Additional Camera </summary>
 
 Intel Realsense D435
+
 [Camera link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
 
 </details>
