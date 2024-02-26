@@ -20,7 +20,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
   
 <summary> Intel Realsense D435 </summary>
 
-[Link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
+[Link](https://www.intelrealsense.com/depth-camera-d435/) <br/>
 
 </details>
 
