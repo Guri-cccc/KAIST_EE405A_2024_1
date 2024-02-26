@@ -91,11 +91,10 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 <summary> Week 5 - Vehicle Control </summary>
 
 <!-- [Lecture Note](Week 5/Materials/) <br/> -->
-- Learn how to design the vehicle controller
-    - Vehicle kinematics model
-    - Longitudinal controller using PID control
-    - Geometry for lateral vehicle control
-    - Lateral controller based on Pure Pursuit & Stanley Method
+- Learn how to design the Mecanum Wheels Robot
+    - Mechanism of Mecanum Wheels Robot
+    - Kinematics model Mecanum Wheels Robot
+    - How to operate Hiwonder ArmPi Pro centering on ROS
 
 </details>
 
@@ -153,12 +152,10 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 - Motion planning methods
   - Graph-based approaches
   - Sampling-based approaches
-  - Motion primitive-based approaches
 - Algorithms
   - A* algorithm
   - Rapidly Exploring Random Tree (RRT)
-  - Motion primitive-based path planning
-
+  
 </details>
 
 <details>    
