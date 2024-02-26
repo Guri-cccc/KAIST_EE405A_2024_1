@@ -1,4 +1,4 @@
-# KAIST_EE405A_2024_1
+![image](https://github.com/Guri-cccc/KAIST_EE405A_2024_1/assets/70877236/699932d7-a550-431a-949b-a7da675493ba)# KAIST_EE405A_2024_1
 KAIST EE405A 2024 spring semester github
 
 In this class, students are invited to build an AI-enabled autonomous rover, based on a ground vehicle platform with GPU-powered computers. Students will learn the basics of robotics including computer vision, navigation, control as well as latest deep learning based detection and decision making. Students will do individual simulation based homework and then build an autonomous rover as a team effort. After building the robot system, students are invited write software that drives the system using latest AI technologies to perform autonomous exploration just like a real life planetary rovers looking for the evidence of life in other planets. 
@@ -43,13 +43,13 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 # Syllabus
 
 <details>
-<summary> Week 1 - Class introduction </summary>
+<summary> Week 1 - Class Introduction </summary>
 
 
 </details>
 
 <details>
-<summary> Week 2 - Introduction to Ubuntu & ROS</summary>
+<summary> Week 2 - Introduction to Ubuntu & ROS </summary>
 
 <!-- [Lecture Note](Week2/Materials/) <br/> -->
 - Instructions for installing Ubuntu (Linux-based OS)
@@ -61,7 +61,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 3 - Simulating robot in virtual environment  </summary>
+<summary> Week 3 - Simulating Robot in Virtual Environment  </summary>
 
 <!-- [Lecture Note](Week 3/Materials/) <br/> -->
 - ROS Gazebo
@@ -74,14 +74,21 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>  
-<summary> Week 4 - Overall system architecture </summary>
+<summary> Week 4 - Overall System Architecture </summary>
 
 <!-- [Lecture Note](Week 4/Materials/) <br/> -->
+- Autonomous system configuration
+- Modules
+    - Control
+    - Localization
+    - Perception
+    - Path planning
+    - Task planning
 
 </details>
 
 <details>
-<summary> Week 5 - Vehicle control </summary>
+<summary> Week 5 - Vehicle Control </summary>
 
 <!-- [Lecture Note](Week 5/Materials/) <br/> -->
 - Learn how to design the vehicle controller
@@ -93,7 +100,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 6 - Robot configuration </summary>
+<summary> Week 6 - Robot Configuration </summary>
 
 <!-- [Lecture Note](Week 6/Materials/) <br/> -->
 - Hardware introduction
@@ -107,11 +114,12 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 <summary> Week 7 - Visual SLAM </summary>
 
 <!-- [Lecture Note](Week 7/Materials/) <br/> -->
-- Visual Odometry
-  - ORB-SLAM
-- TFs in car like robots
+- TFs in mobile manipulator
+  - Robot TFs
   - TFs for perception
   - TFs for localization
+- SLAM
+  - ORB-SLAM
 - Waypoints for global path planning
 
 </details>
@@ -122,19 +130,16 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 <summary> Week 9 - Perception </summary>
 
 <!-- [Lecture Note](Week 9/Materials/) <br/> -->
-- LiDAR-based perception
-    - Object detection
-    - Segmentation
-- Camera-based perception
-    - Object detection
-    - Segmentation
+- Depth Image and Pointcloud
     - Depth estimation using vision
     - Stereo vision
     - Other methods
-- Post-processing
+    - Object detection
+    - Point cloud segmentation
+- Image
+    - Object detection
+    - Image segmentation
     - IPM (Inverse Perspective Mapping)
-    - RGB-point cloud
-    - Cost map generation
 
 </details>
 
@@ -164,23 +169,32 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 12 - Large language model in robotics </summary>
+<summary> Week 12 - Large Language Model in Robotics </summary>
 
 <!-- [Lecture Note](Week12/Materials/) <br/> -->
 
 </details>
 
 <details>
-<summary> Week 13 - Final project for exploration </summary>
+<summary> Week 13 - System Operation </summary>
 
 <!-- [Lecture Note](Week13/Materials/) <br/> -->
+- Review of overall system architecture
+- Hardware settings check
+- Review of exploration strategy
+  - Localization
+  - Perception
+  - Large language model
 
 </details>
 
 <details>
-<summary> Week 14 - Final project preparation (Exploration) </summary>
+<summary> Week 14 - Final Project Preparation </summary>
 
 <!-- [Lecture Note](Week14/Materials/) <br/> -->
+- Review of the race rules
+- Testings
+- QnA
 
 </details>
 
