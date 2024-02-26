@@ -11,7 +11,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 
 Hiwonder ArmPi Pro
 
-[Robot link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
+[Link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
 - 4 omni-directional mecanum wheels
 - 6DOF arm (5DOF+gripper)
 - FPV camera at the end-effector
@@ -24,12 +24,13 @@ Hiwonder ArmPi Pro
 
 Intel Realsense D435
 
-[Camera link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
+[Link](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
 
 </details>
 
 ## Computer
 NVIDIA® Jetson Orin™ Nano Developer Kit
+[Link](https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit) <br/>
 
 ***
 
