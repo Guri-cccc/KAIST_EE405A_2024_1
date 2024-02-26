@@ -115,7 +115,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 
 </details>
 
-  Week 8 - Midterm exam week
+  (Week 8 - Midterm exam week)
 
 <details>
 <summary> Week 9 - Perception </summary>
@@ -190,4 +190,4 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 
 </details>
 
-  Week 16 - Final exam week
+  (Week 16 - Final exam week)
