@@ -94,6 +94,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 - Learn how to design the Mecanum Wheels Robot
     - Mechanism of Mecanum Wheels Robot
     - Kinematics of Mecanum Wheels Robot
+    - Kinematics of 6-DOF robot arm
     - How to operate Hiwonder ArmPi Pro centering on ROS
 
 </details>
