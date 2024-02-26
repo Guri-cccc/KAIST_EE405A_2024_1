@@ -8,17 +8,14 @@ KAIST EE405A 2024 spring semester
 # Syllabus
 
 <details>
-<summary>더보기</summary>
+<summary> Week 1 - Class introduction </summary>
 
-<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-자세한 내용은 더보기 버튼으로 가려둘 수 있음
 
 </details>
 
+<details>
+<summary> Week 2 - Ubuntu Installation & ROS </summary>
 
-## Week 1 - Class introduction
-
-## Week 2 - Ubuntu Installation & ROS
 <!-- [Lecture Note](Week2/Materials/) <br/> -->
 - Brief tips on installing Ubuntu (Linux-based OS)
 - Understand the Robotics Operating System (ROS) (1)
@@ -26,7 +23,11 @@ KAIST EE405A 2024 spring semester
 - Run ROS tutorial
 - Learn ROS programming
 
-## Week 3 - Simulation
+</details>
+
+<details>
+<summary> Week 3 - Simulation </summary>
+
 <!-- [Lecture Note](Week 3/Materials/) <br/> -->
 - Gazebo
 - Robot model
@@ -34,11 +35,19 @@ KAIST EE405A 2024 spring semester
   - World
 - Control car model in the simulation
 - Sensor inputs
-  
-## Week 4 - Overall system architecture
+
+</details>
+
+<details>  
+<summary> Week 4 - Overall system architecture </summary>
+
 <!-- [Lecture Note](Week 4/Materials/) <br/> -->
 
-## Week 5 - Vehicle control
+</details>
+
+<details>
+<summary> Week 5 - Vehicle control </summary>
+
 <!-- [Lecture Note](Week 5/Materials/) <br/> -->
 - Learn how to design the vehicle controller
     - Vehicle kinematics model
@@ -46,13 +55,21 @@ KAIST EE405A 2024 spring semester
     - Geometry for lateral vehicle control
     - Lateral controller based on Pure Pursuit & Stanley Method
 
-## Week 6 - Hardware configuration
+</details>
+
+<details>
+<summary> Week 6 - Hardware configuration </summary>
+
 <!-- [Lecture Note](Week 6/Materials/) <br/> -->
 - Hardware architecture
 - Electronics
 - Chassis
 
-## Week 7 - Visual SLAM
+</details>
+
+<details>
+<summary> Week 7 - Visual SLAM </summary>
+
 <!-- [Lecture Note](Week 7/Materials/) <br/> -->
 - Visual Odometry
   - ORB-SLAM
@@ -61,9 +78,13 @@ KAIST EE405A 2024 spring semester
   - TFs for localization
 - Waypoints for global path planning
 
-## Week 8 - Midterm exam week
+</details>
 
-## Week 9 - Perception
+<summary> Week 8 - Midterm exam week </summary>
+
+<details>
+<summary> Week 9 - Perception </summary>
+
 <!-- [Lecture Note](Week 9/Materials/) <br/> -->
 - LiDAR-based perception
     - Object detection
@@ -78,8 +99,12 @@ KAIST EE405A 2024 spring semester
     - IPM (Inverse Perspective Mapping)
     - RGB-point cloud
     - Cost map generation
-        
-## Week 10 - Motion Planning
+
+</details>
+
+<details>        
+<summary> Week 10 - Motion Planning </summary>
+
 <!-- [Lecture Note](Week10/Materials/) <br/> -->
 - Occupancy grid map
 - Cost map generation
@@ -92,20 +117,42 @@ KAIST EE405A 2024 spring semester
   - A* algorithm
   - Rapidly Exploring Random Tree (RRT)
   - Motion primitive-based path planning
-    
-## Week 11 - Exploration
+
+</details>
+
+<details>    
+<summary> Week 11 - Exploration </summary>
+
 <!-- [Lecture Note](Week11/Materials/) <br/> -->
 
-## Week 12 - Large language model in robotics
+</details>
+
+<details>
+<summary> Week 12 - Large language model in robotics </summary>
+
 <!-- [Lecture Note](Week12/Materials/) <br/> -->
 
-## Week 13 - Final project for exploration
+</details>
+
+<details>
+<summary> Week 13 - Final project for exploration </summary>
+
 <!-- [Lecture Note](Week13/Materials/) <br/> -->
 
-## Week 14 - Final project preparation (Exploration)
+</details>
+
+<details>
+<summary> Week 14 - Final project preparation (Exploration) </summary>
+
 <!-- [Lecture Note](Week14/Materials/) <br/> -->
 
-## Week 15 - Final Race
+</details>
+
+<details>
+<summary> Week 15 - Final Race </summary>
+
 <!-- [Lecture Note](Week15/Materials/) <br/> -->
 
-## Week 16 - Final exam week
+</details>
+
+<summary> Week 16 - Final exam week </summary>
