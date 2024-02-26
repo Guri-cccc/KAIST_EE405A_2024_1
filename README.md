@@ -29,8 +29,17 @@ Intel Realsense D435
 </details>
 
 ## Computer
-NVIDIA® Jetson Orin™ Nano Developer Kit
+<details>
+  
+<summary> NVIDIA® Jetson Orin™ Nano Developer Kit </summary>
+
 [Link](https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit) <br/>
+
+</details>
+
+
+
+
 
 ***
 
