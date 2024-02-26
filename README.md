@@ -170,7 +170,11 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 <summary> Week 12 - Large Language Model in Robotics </summary>
 
 <!-- [Lecture Note](Week12/Materials/) <br/> -->
-
+- Introduction to LLMs (GPT, BERT, PaLM, and etc.)
+  - GPT, BERT, PaLM, and etc.
+  - Vision + LLM
+  - Robotics + LLM
+- Instruction of GPT API
 </details>
 
 <details>
