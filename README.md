@@ -33,8 +33,9 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 
 </details>
 
-
-
+# Environments
+- Ubuntu 20.04
+- ROS Noetic
 
 
 ***
