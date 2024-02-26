@@ -49,27 +49,27 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 2 - Ubuntu Installation & ROS </summary>
+<summary> Week 2 - Introduction to Ubuntu & ROS</summary>
 
 <!-- [Lecture Note](Week2/Materials/) <br/> -->
-- Brief tips on installing Ubuntu (Linux-based OS)
-- Understand the Robotics Operating System (ROS) (1)
-- Install & Setup ROS
-- Run ROS tutorial
-- Learn ROS programming
+- Instructions for installing Ubuntu (Linux-based OS)
+- Understanding the Robotics Operating System (ROS)
+- Installation & initial setup for ROS
+- Basic ROS examples
+- Hands-on learn of ROS programming
 
 </details>
 
 <details>
-<summary> Week 3 - Simulation </summary>
+<summary> Week 3 - Simulating robot in virtual environment  </summary>
 
 <!-- [Lecture Note](Week 3/Materials/) <br/> -->
-- Gazebo
-- Robot model
-  - URDF
+- ROS Gazebo
+- Robot model and environment
+  - URDF: Unified Robot Description Format
   - World
-- Control car model in the simulation
-- Sensor inputs
+- Spawn your own URDF robot in the World
+- Virtual Sensors in Gazebo
 
 </details>
 
@@ -93,12 +93,13 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 6 - Hardware configuration </summary>
+<summary> Week 6 - Robot configuration </summary>
 
 <!-- [Lecture Note](Week 6/Materials/) <br/> -->
-- Hardware architecture
-- Electronics
-- Chassis
+- Hardware introduction
+- Component description
+- Before assembling hardware
+- Basic soldering tips
 
 </details>
 
