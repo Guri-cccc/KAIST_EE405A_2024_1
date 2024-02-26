@@ -3,7 +3,7 @@ KAIST EE405A 2024 spring semester
 
 # Class materials
 ## hardware platform
-[Robot]([Robot](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807)) <br/>
+[Robot](https://www.hiwonder.com/collections/robotic-car/products/armpi-pro?variant=40308380958807) <br/>
 
 ***
 
