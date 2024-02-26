@@ -80,7 +80,7 @@ KAIST EE405A 2024 spring semester
 
 </details>
 
-<summary> Week 8 - Midterm exam week </summary>
+> Week 8 - Midterm exam week
 
 <details>
 <summary> Week 9 - Perception </summary>
@@ -155,4 +155,4 @@ KAIST EE405A 2024 spring semester
 
 </details>
 
-<summary> Week 16 - Final exam week </summary>
+> Week 16 - Final exam week
