@@ -163,7 +163,9 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 <summary> Week 11 - Exploration </summary>
 
 <!-- [Lecture Note](Week11/Materials/) <br/> -->
-
+- Introduction to Exploration
+- Core Papers Review (Exploration)
+  - "Topological Exploration using Segmented Map with Keyframe Contribution in Subterranean Environments", "GBPlanner", "FAEL", and etc.
 </details>
 
 <details>
