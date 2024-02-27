@@ -1,4 +1,4 @@
-# KAIST_EE405A_2024_1
+# KAIST EE405A 2024 Spring Semester (AI-enabled autonomous rover)
 KAIST EE405A 2024 spring semester github
 
 In this class, students are invited to build an AI-enabled autonomous rover, based on a ground vehicle platform with GPU-powered computers. Students will learn the basics of robotics including computer vision, navigation, control as well as latest deep learning based detection and decision making. Students will do individual simulation based homework and then build an autonomous rover as a team effort. After building the robot system, students are invited write software that drives the system using latest AI technologies to perform autonomous exploration just like a real life planetary rovers looking for the evidence of life in other planets. 
