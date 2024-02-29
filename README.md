@@ -42,6 +42,9 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 - Ubuntu 20.04
 - ROS Noetic
 
+***
+# Autonomous Robot System Architecture
+<img src="./images/system_architecture_sample.png" align="center" width="70%">
 
 ***
 
