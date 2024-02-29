@@ -61,7 +61,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 3 - Simulating Robot in Virtual Environment :computer: <p>$\color{#5ad7b7}HW\ :\ Example\ on\ ROS\ and\ simulation$</p> </summary>
+<summary> Week 3 - Simulating Robot in Virtual Environment :computer: <p>$\color{#5ad7b7}HW:\ Example\ on\ ROS\ and\ simulation$</p> </summary>
 
 <!-- [Lecture Note](Week 3/Materials/) <br/> -->
 - ROS Gazebo
@@ -88,7 +88,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 5 - Vehicle Control :computer: <p>$\color{#5ad7b7}HW\ :\ pure\ pursuit$</p></summary>
+<summary> Week 5 - Vehicle Control :computer: <p>$\color{#5ad7b7}HW:\ Pure\ pursuit$</p></summary>
 
 <!-- [Lecture Note](Week 5/Materials/) <br/> -->
 - Learn how to design the Mecanum Wheels Robot
@@ -111,7 +111,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 7 - Visual SLAM :computer: <p>$\color{#5ad7b7}HW\ :\ ORB-SLAM$</p></summary></summary>
+<summary> Week 7 - Visual SLAM :computer: <p>$\color{#5ad7b7}HW:\ ORB-SLAM$</p></summary></summary>
 
 <!-- [Lecture Note](Week 7/Materials/) <br/> -->
 - TFs in mobile manipulator
@@ -144,7 +144,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>        
-<summary> Week 10 - Motion Planning :computer: <p>$\color{#5ad7b7}HW\ :\ Building\ costmap\ and\ collision\ avoidance\ planning$</p></summary></summary>
+<summary> Week 10 - Motion Planning :computer: <p>$\color{#5ad7b7}HW:\ Building\ costmap\ and\ collision\ avoidance\ planning$</p></summary>
 
 <!-- [Lecture Note](Week10/Materials/) <br/> -->
 - Occupancy grid map
@@ -169,7 +169,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 12 - Large Language Model in Robotics </summary>
+<summary> Week 12 - Large Language Model in Robotics :computer: <p>$\color{#5ad7b7}HW:\ GPT\ API$</p></summary>
 
 <!-- [Lecture Note](Week12/Materials/) <br/> -->
 - Introduction to LLMs (GPT, BERT, PaLM, and etc.)
