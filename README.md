@@ -5,7 +5,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 
 ## Related projects
 [NASA JPL] Mars Science Laboratory Curiosity Rover [Animation](https://youtu.be/P4boyXQuUIw?feature=shared) <br/>
-
+[RoSys Group] A mobile robotic manipulator for plastic waste collection [Video](https://youtu.be/dNyUeop_Ihc?feature=shared) <br/>
 
 # Hardware platform
 <img src="./images/robot_image.png" align="center" width="40%">
