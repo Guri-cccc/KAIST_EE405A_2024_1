@@ -215,7 +215,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 15 - Final Race :blue_car: <p>$\huge{\rm{\color{#DD6565}Sample\ Collection\ using\ Autonomous\ Rover}}$</p></summary>
+<summary> Week 15 - Final Race :blue_car: <p>$\huge{\rm{\color{#DD6565}"Sample\ Collection\ using\ Autonomous\ Rover"}}$</p></summary>
 
 <!-- [Lecture Note](Week15/Materials/) <br/> -->
 
