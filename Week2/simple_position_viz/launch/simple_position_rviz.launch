@@ -1,0 +1,14 @@
+<launch>
+    <arg name="with_rviz" default="false"/>
+    <arg name="with_joy" default="false"/>
+
+    <group if="$(arg with_rviz)">
+        <node name="rviz_visualization" pkg="rviz" type="rviz" args="-d $(find simple_position_viz)/rviz/config.rviz"/>
+    </group>
+
+    <group if="$(arg with_joy)">
+        <node name="virtual_joy" pkg="rqt_virtual_joy" type="rqt_virtual_joy"/>
+    </group>
+
+    <node name="simple_position_viz_node" pkg="simple_position_viz" type="simple_position_viz_node" output="screen"/>
+</launch>
