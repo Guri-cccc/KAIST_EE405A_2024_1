@@ -156,7 +156,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>        
-<summary> Week 10 - Motion Planning :computer: <p>$\color{#5ad7b7}HW:\ Building\ costmap\ and\ collision\ avoidance\ planning$</p></summary>
+<summary> Week 10 - Motion Planning :computer: <p>$\color{#5ad7b7}HW:\ Plannig\ collision\ avoidance\ path$</p></summary>
 
 <!-- [Lecture Note](Week10/Materials/) <br/> -->
 - Occupancy grid map
