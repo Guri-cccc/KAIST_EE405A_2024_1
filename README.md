@@ -45,7 +45,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 ***
 # Autonomous Robot System Architecture (Example)
 
-<img src="./images/system_architecture_sample_.png" align="center" width="100%">
+<img src="./images/system_architecture_sample_.png" align="center" width="80%">
 
 ***
 
