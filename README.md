@@ -66,7 +66,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 - Installation & initial setup for ROS
 - Basic ROS examples
 - Hands-on learn of ROS programming
-  After following the tutorial, try to complete the Week 2 practice package as demonstrated below.
+  After following the tutorial, try to complete the Week 2 practice package as demonstrated video.
   [Link](https://www.youtube.com/watch?v=c1Ax88TbL9s) <br/>
 
 </details>
