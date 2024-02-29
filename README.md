@@ -61,7 +61,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 3 - Simulating Robot in Virtual Environment :green_book: <mark style='background-color: #fff5b1'>(HW: Example on ROS and simulation)</mark> </summary>
+<summary> Week 3 - Simulating Robot in Virtual Environment <mark style='background-color: #fff5b1'>(HW:green_book: : Example on ROS and simulation)</mark> </summary>
 
 <!-- [Lecture Note](Week 3/Materials/) <br/> -->
 - ROS Gazebo
