@@ -88,7 +88,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 5 - Vehicle Control </summary>
+<summary> Week 5 - Vehicle Control :computer: <p>$\color{#5ad7b7}HW\ :\ pure\ pursuit$</p></summary>
 
 <!-- [Lecture Note](Week 5/Materials/) <br/> -->
 - Learn how to design the Mecanum Wheels Robot
@@ -111,7 +111,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>
-<summary> Week 7 - Visual SLAM </summary>
+<summary> Week 7 - Visual SLAM :computer: <p>$\color{#5ad7b7}HW\ :\ ORB-SLAM$</p></summary></summary>
 
 <!-- [Lecture Note](Week 7/Materials/) <br/> -->
 - TFs in mobile manipulator
@@ -144,7 +144,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 </details>
 
 <details>        
-<summary> Week 10 - Motion Planning </summary>
+<summary> Week 10 - Motion Planning :computer: <p>$\color{#5ad7b7}HW\ :\ Building\ costmap\ and\ collision\ avoidance\ planning$</p></summary></summary>
 
 <!-- [Lecture Note](Week10/Materials/) <br/> -->
 - Occupancy grid map
