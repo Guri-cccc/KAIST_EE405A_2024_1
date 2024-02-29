@@ -40,7 +40,7 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 
 ***
 
-# Syllabus
+# Experiment schedule
 
 <details>
 <summary> Week 1 - Class Introduction </summary>
