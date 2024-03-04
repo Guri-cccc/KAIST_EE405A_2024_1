@@ -4,6 +4,7 @@
 In this class, students are invited to build an AI-enabled autonomous rover, based on a ground vehicle platform with GPU-powered computers. Students will learn the basics of robotics including computer vision, navigation, control as well as latest deep learning based detection and decision making. Students will do individual simulation based homework and then build an autonomous rover as a team effort. After building the robot system, students are invited write software that drives the system using latest AI technologies to perform autonomous exploration just like a real life planetary rovers looking for the evidence of life in other planets.
 
 ## Related projects
+[WPI] A Robotic Solution to Safely Finding and Destroying Land Mines [Video](https://youtu.be/LhUmatv10n4?feature=shared) <br/>
 [NASA JPL] Mars Science Laboratory Curiosity Rover [Animation](https://youtu.be/P4boyXQuUIw?feature=shared) <br/>
 [RoSys Group] A mobile robotic manipulator for plastic waste collection [Video](https://youtu.be/dNyUeop_Ihc?feature=shared) <br/>
 [USRG] MBZIR-UGV Operating a Valve [Video](https://youtu.be/NRCp4iheQsg?feature=shared) <br/>
