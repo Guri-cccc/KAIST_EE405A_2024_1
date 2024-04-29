@@ -144,16 +144,14 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 <summary> Week 9 - Perception </summary>
 
 <!-- [Lecture Note](Week 9/Materials/) <br/> -->
-- Depth Image and Pointcloud
+- Depth Image and Pointcloud [depth2pointCLoud](https://github.com/Guri-cccc/depthImage2pointCloud.git) <br/>
     - Depth estimation using vision
-    - Stereo vision
     - Other methods
-    - Object detection
-    - Point cloud segmentation
+    - Frame transformation [Transformation](https://github.com/Guri-cccc/point_tf.git) <br/>
+
 - Image
-    - Object detection
+    - Object detection [YoloV5ROS](https://github.com/mats-robotics/yolov5_ros.git) <br/>
     - Image segmentation
-    - IPM (Inverse Perspective Mapping)
 
 </details>
 
