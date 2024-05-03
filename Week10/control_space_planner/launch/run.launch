@@ -1,0 +1,4 @@
+<launch>
+ <!-- Turn on control_space_planner node -->
+ <node name="control_space_planner_node" pkg="control_space_planner" type="control_space_planner_node" output="screen"/> 
+</launch>
