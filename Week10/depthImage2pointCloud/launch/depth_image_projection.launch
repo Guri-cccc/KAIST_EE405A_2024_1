@@ -1,0 +1,11 @@
+<launch>
+    <arg name="depth_raw_image"                     default="/camera/depth/image_rect_raw"/>
+    <arg name="depth_image_info"                    default="/camera/depth/camera_info"/>
+    <arg name="camera_factor"                       default="1000"/>
+
+    <node name="pointcloud_projection_node" pkg="pointcloud_projection" type="pointcloud_projection_node" output="screen">
+        <param name="depth_raw_image"               value="$(arg depth_raw_image)" />
+        <param name="depth_image_info"              value="$(arg depth_image_info)" />
+        <param name="camera_factor"                 value="$(arg camera_factor)" />
+    </node>
+</launch>
