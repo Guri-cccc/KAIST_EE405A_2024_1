@@ -1,3 +1,0 @@
-'''
-TODO 1 write your prompt here
-'''
