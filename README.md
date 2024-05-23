@@ -198,7 +198,11 @@ In this class, students are invited to build an AI-enabled autonomous rover, bas
 - Review of overall system architecture
 - Hardware settings check
 - Review of exploration strategy
+  - Rover description
+    - Rover transformation bring up in Week13/
   - Localization
+    - Absolute localization w.r.t. map frame [True RT Tag](https://github.com/MinSungjae/true_rt_tag) <br/>
+    - Localization multiplexer (MUX) [Localization Manager](https://github.com/MinSungjae/localization_manager) <br/>
   - Perception
   - Large language model
 
