@@ -3,10 +3,6 @@
     <arg name="depth_image_topic"                   default="/camera/depth/image_raw"/>
     <arg name="pointcloud_topic"                    default="/target_object/projected_points"/>
 
-    <!-- <arg name="x_bias"                              default="-0.043"/> -->
-    <!-- <arg name="y_bias"                              default="0.06"/> -->
-    <!-- <arg name="z_bias"                              default="-0.015"/> -->
-
     <arg name="x_bias"                              default="-0.04"/>
     <arg name="y_bias"                              default="0.06"/>
     <arg name="z_bias"                              default="-0.07"/>
