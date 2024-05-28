@@ -98,7 +98,7 @@ void PositionEstimation::TargetPointcloudCallback(const sensor_msgs::PointCloud2
     double cam_tilt = DEG2RAD(17.5);
     center_point.x = center.x + x_bias;
     center_point.y = (center.y*sin(cam_tilt) + center.z*cos(cam_tilt))*((1.0 - sat(center.x, 0.125))/1.0) + y_bias;
-    center_point.z = z_bias; //-center.y*cos(cam_tilt) + center.z*sin(cam_tilt)
+    center_point.z = z_bias; 
     ROS_INFO_STREAM("Px: " << center_point.x << ", Py: " << center_point.y << ", Pz:" << center_point.z);
     
     pub_target_center.publish(center_point);
