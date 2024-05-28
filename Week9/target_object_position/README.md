@@ -3,5 +3,5 @@
 
 ## Run
   ````
-  roslaunch pointcloud_projection depth_image_projection.launch
+  roslaunch target_estimation depth_image_projection.launch
   ````
