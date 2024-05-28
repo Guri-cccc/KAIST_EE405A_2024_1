@@ -1,0 +1,27 @@
+<launch>
+    <arg name="detection_topic"                     default="/yolov5/detections"/>
+    <arg name="depth_image_topic"                   default="/camera/depth/image_raw"/>
+    <arg name="pointcloud_topic"                    default="/target_object/projected_points"/>
+
+    <arg name="x_bias"                              default="-0.04"/>
+    <arg name="y_bias"                              default="0.06"/>
+    <arg name="z_bias"                              default="-0.07"/>
+
+    <node name="target_pc_node" pkg="pointcloud_projection" type="pointcloud_projection_node" output="screen">
+        <param name="depth_raw_image"           value="/target_object"/>
+        <param name="depth_image_info"          value="/camera/depth/camera_info"/>
+        <param name="camera_factor"             value="1000"/>
+    </node>
+
+    <node name="target_depth_image_node" pkg="target_estimation" type="target_depth_image_node" output="screen">
+        <param name="detection_topic"               value="$(arg detection_topic)" />
+        <param name="depth_image_topic"             value="$(arg depth_image_topic)" />
+    </node>
+
+    <node name="position_estimation_node" pkg="target_estimation" type="position_estimation_node" output="screen">
+        <param name="pointcloud_topic"      value="$(arg pointcloud_topic)" />
+        <param name="x_bias"                value="$(arg x_bias)" />
+        <param name="y_bias"                value="$(arg y_bias)" />
+        <param name="z_bias"                value="$(arg z_bias)" />
+    </node>
+</launch>
