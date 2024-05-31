@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: local_costmap_generator
+Description: Description of local_costmap_generator
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: nodelet roscpp pcl_ros sensor_msgs tf

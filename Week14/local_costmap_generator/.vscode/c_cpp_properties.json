@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ee405/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ee405/catkin_ws/src/planning/control_space_planner/include/**",
+        "/home/ee405/catkin_ws/src/planning/global_path_planner_ee405/include/**",
+        "/home/ee405/catkin_ws/src/planning/graph_planner/include/**",
+        "/home/ee405/catkin_ws/src/task_planning/llm/include/**",
+        "/home/ee405/catkin_ws/src/perception/local_costmap_generator/include/**",
+        "/home/ee405/catkin_ws/src/localization/localization_manager/include/**",
+        "/home/ee405/catkin_ws/src/planning/motion_primitives_planner/include/**",
+        "/home/ee405/catkin_ws/src/control/pid_control/include/**",
+        "/home/ee405/catkin_ws/src/common/point_tf/include/**",
+        "/home/ee405/catkin_ws/src/driver/realsense-ros/realsense2_camera/include/**",
+        "/home/ee405/catkin_ws/src/simulation/EE405A-2023-F1-simulation/realsense_gazebo_plugin/include/**",
+        "/home/ee405/catkin_ws/src/localization/true_rt_tag/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

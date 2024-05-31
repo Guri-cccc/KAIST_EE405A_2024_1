@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240531-0640-Experimental"
+	Name="ee405"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="ee405"
+	OSRelease="5.10.104-tegra"
+	OSVersion="#1 SMP PREEMPT Sun Mar 19 07:55:28 PDT 2023"
+	OSPlatform="aarch64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="8"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="3240"
+	TotalPhysicalMemory="6480"
+	LogicalProcessorsPerPhysical="6"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>May 31 15:40 KST</StartDateTime>
+		<StartTestTime>1717137654</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 31 15:40 KST</EndDateTime>
+		<EndTestTime>1717137654</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
